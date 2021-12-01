@@ -9,7 +9,7 @@
 #import "TimerProxy.h"
 
 @interface TimerProxy ()
-// weak
+// weak target
 @property(nonatomic, weak) id target;
 
 @end
